@@ -1,4 +1,4 @@
-# Ben-s-Introductory
+# Ben-s-Cyber-Journey
 
 # 👋 Hi, I'm Ben — Cybersecurity Learner & Engineer
 
